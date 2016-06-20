@@ -1,0 +1,352 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Reg",
+				"RegistrarDetalle"
+			],
+			[
+				"Ta",
+				"TaDetalle"
+			],
+			[
+				"Registr",
+				"RegistrarPlatillo"
+			],
+			[
+				"Registrar",
+				"RegistrarEstadoPlatillo"
+			],
+			[
+				"RegistrarP",
+				"RegistrarTipoPlatillo"
+			],
+			[
+				"Re",
+				"RegistradoTaRol"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"titulo",
+				"titulo_template"
+			],
+			[
+				"is_",
+				"is_valid"
+			],
+			[
+				"pub",
+				"published_date"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "SGP/models.py",
+			"settings":
+			{
+				"buffer_size": 7848,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "SGP/forms.py",
+			"settings":
+			{
+				"buffer_size": 953,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "SGP/admin.py",
+			"settings":
+			{
+				"buffer_size": 1571,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "SGP/views.py",
+			"settings":
+			{
+				"buffer_size": 602,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jhoncer/pythonProjects2/Restaurant/Restaurant/settings.py",
+		"/C/Users/Jhoncer/pythonProjects2/Restaurant/Restaurant/urls.py",
+		"/C/Users/Jhoncer/pythonProjects2/Restaurant/templates/inicio.html",
+		"/C/Users/Jhoncer/pythonProjects2/Restaurant/manage.py",
+		"/C/Users/Jhoncer/pythonProjects2/Restaurant/SGP/migrations/forms.py",
+		"/C/Users/Jhoncer/python/djangoProb/src_pd/static_files/css/base.css",
+		"/C/Users/Jhoncer/python/djangoProb/src_pd/pruebaDjango/settings.py",
+		"/C/Users/Jhoncer/python/djangoProb/src_pd/boletos/admin.py",
+		"/C/Users/Jhoncer/python/djangoProb/src_pd/templates/base",
+		"/C/Users/Jhoncer/python/djangoProb/src_pd/pruebaDjango/urls.py",
+		"/C/Users/Jhoncer/python/djangoProb/src_pd/templates/inicio.html",
+		"/C/Users/Jhoncer/python/djangoProb/src_pd/boletos/forms.py",
+		"/C/Users/Jhoncer/python/djangoProb/src_pd/boletos/__init__.py",
+		"/C/Users/Jhoncer/pythonProjects/pide1pollo/restaurant.sublime-project",
+		"/C/Users/Jhoncer/pythonProjects/demoCodFac/blog/models.py",
+		"/C/Users/Jhoncer/pythonProjects/pide1pollo/pide1pollo/settings.py",
+		"/C/Users/Jhoncer/pythonProjects/demoCodFac/demoCodFac/settings.py",
+		"/C/Users/Jhoncer/pythonProjects/LoginPython/blog/models.py",
+		"/C/Users/Jhoncer/pythonProjects/pide1pollo/db.sqlite3",
+		"/C/Users/Jhoncer/pythonProjects/pide1pollo/pide1pollo/settings.pyc",
+		"/C/Users/Jhoncer/pythonProjects/pide1pollo/manage.py",
+		"/C/Users/Jhoncer/Desktop/2016-I/BenefitzVirtual/employees/helpers.py",
+		"/C/Users/Jhoncer/Desktop/2016-I/BenefitzVirtual/employees/models.py",
+		"/C/Users/Jhoncer/pythonProjects/pide1pollo/p1pollo/models.py",
+		"/C/Users/Jhoncer/pythonProjects/LoginPython/blog/models.pyc",
+		"/C/Users/Jhoncer/pythonProjects/djangoDemo/blog/models.py",
+		"/C/Users/Jhoncer/pythonProjects/djangoDemo/blog/models.pyc",
+		"/C/Users/Jhoncer/pythonProjects/djangoDemo/djangoDemo/settings.py",
+		"/C/Users/Jhoncer/pythonProjects/djangoDemo/.gitignore",
+		"/C/Users/Jhoncer/pythonProjects/demoCodFac/manage.py",
+		"/C/Users/Jhoncer/pythonProjects/djangoDemo/blog/admin.py",
+		"/C/Users/Jhoncer/pythonProjects/LoginPython/LoginPython/settings.py",
+		"/C/Python27/Lib/site-packages/django/bin/django-admin.py",
+		"/C/Users/Jhoncer/pythonProjects/LoginPython/manage.py",
+		"/C/Users/Jhoncer/pythonProjects/LoginPython/blog/admin.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Jhoncer\\python\\djangoProb\\src_pd"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"RegForm",
+			"RegInicio"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "SGP/models.py",
+					"settings":
+					{
+						"buffer_size": 7848,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3377,
+								3377
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1335.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "SGP/forms.py",
+					"settings":
+					{
+						"buffer_size": 953,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								555,
+								555
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "SGP/admin.py",
+					"settings":
+					{
+						"buffer_size": 1571,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								905,
+								905
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "SGP/views.py",
+					"settings":
+					{
+						"buffer_size": 602,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								237,
+								237
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
